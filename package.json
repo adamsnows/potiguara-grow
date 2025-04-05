@@ -1,0 +1,25 @@
+{
+  "name": "potiguara-grow",
+  "version": "1.0.0",
+  "description": "[![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tw": "tailwindcss -i ./assets/tailwind.css -o ./assets/theme.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsnows/potiguara-grow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adamsnows/potiguara-grow/issues"
+  },
+  "homepage": "https://github.com/adamsnows/potiguara-grow#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

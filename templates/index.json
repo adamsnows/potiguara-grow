@@ -1,0 +1,252 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Cultivo Discreto</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_RftMzw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Growbox é feita para resultados e facilidade de uso, sem se preocupar com questões visuais ou montagem elétrica. Aprovada por mais de 1000 cultivadores no Brasil!</p>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver modelos",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        },
+        "caption_LaUwmP": {
+          "type": "caption",
+          "settings": {
+            "caption": "Com o cupom: SOUGROWER",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_RftMzw",
+        "button",
+        "caption_LaUwmP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/cultivo.webp",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_nyg8Xm": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products_to_show": 2,
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 2,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 4,
+        "title": "Seu próximo cultivo",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_fDYBeN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rzbmNk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Acabou a necessidade do corre",
+            "heading_size": "h2"
+          }
+        },
+        "text_HDg6aq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A Homegrown é profissional e pioneira na criação de cultivos discretos no Brasil. Criamos a linha <strong>Growbox, </strong>uma linha de cultivos discretos feitos em MDF que vão montados para você!</p>"
+          }
+        },
+        "button_bdLBFH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rzbmNk",
+        "text_HDg6aq",
+        "button_bdLBFH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_pFdLFK": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_injrfV": {
+      "type": "multirow",
+      "blocks": {
+        "row_m73bU9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/grow-7.webp",
+            "caption": "Para quem precisa de discrição",
+            "heading": "Excelente",
+            "text": "<p>“Eu moro em um apartamento minúsculo e minha mãe veio passar uns dias comigo. Ela até encostou os sapatos na Growbox e nem percebeu que tinha algo diferente ali! Foi a prova de fogo pra mim. O melhor é que, além de discreto, ele controla muito bem o cheiro. Sem dúvidas, foi a melhor compra que fiz pra conseguir cultivar em paz.”</p>",
+            "button_label": "Ver modelo",
+            "button_link": ""
+          }
+        },
+        "row_PnqHq8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/grow-5.webp",
+            "caption": "Visual limpo e resultado",
+            "heading": "Surpreendente",
+            "text": "<p>“Sempre usei aquelas tendas de cultivo, mas minha esposa detestava o visual. Resolvi investir nessa Growbox e foi a melhor decisão: agora parece um armário normal, e ninguém sequer desconfia que tem plantas dentro. De quebra, já colhi minha primeira safra e fiquei impressionado com a quantidade. Valeu cada centavo!”</p>",
+            "button_label": "Ver modelo",
+            "button_link": ""
+          }
+        },
+        "row_XmxDxW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/feedback-3.webp",
+            "caption": "Passou no teste",
+            "heading": "<strong>Amigos curiosos</strong>",
+            "text": "<p>“Convidei uns colegas pra jogar videogame no mesmo quarto onde a Growbox fica. Um deles até quis ver de perto o umidificador que estava em cima do armário, tirou foto, mexeu de um lado pro outro, e mesmo assim não notou que embaixo tinha um grow. Nem dá pra acreditar o quão bem integrado ele ficou com o resto dos móveis.”<br/><strong><br/>Ricardo B. - SC</strong></p>",
+            "button_label": "Ver modelo",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_m73bU9",
+        "row_PnqHq8",
+        "row_XmxDxW"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_LHwrJ3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "featured_collection_nyg8Xm",
+    "featured-collection",
+    "rich_text_fDYBeN",
+    "custom_liquid_pFdLFK",
+    "multirow_injrfV",
+    "custom_liquid_LHwrJ3"
+  ]
+}
