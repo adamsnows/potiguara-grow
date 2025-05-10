@@ -16,14 +16,14 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Cultivo Discreto</strong>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_RftMzw": {
           "type": "text",
           "settings": {
             "text": "<p>Growbox é feita para resultados e facilidade de uso, sem se preocupar com questões visuais ou montagem elétrica. Aprovada por mais de 1000 cultivadores no Brasil!</p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -134,7 +134,7 @@
         "text_HDg6aq": {
           "type": "text",
           "settings": {
-            "text": "<p>A Homegrown é profissional e pioneira na criação de cultivos discretos no Brasil. Criamos a linha <strong>Growbox, </strong>uma linha de cultivos discretos feitos em MDF que vão montados para você!</p>"
+            "text": "<p>A Potiguara Grow é profissional e pioneira na criação de cultivos discretos no Brasil. Criamos a linha <strong>Growbox, </strong>uma linha de cultivos discretos feitos em MDF que vão montados para você!</p>"
           }
         },
         "button_bdLBFH": {
@@ -161,15 +161,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "custom_liquid_pFdLFK": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "multirow_injrfV": {
@@ -245,7 +236,6 @@
     "featured_collection_nyg8Xm",
     "featured-collection",
     "rich_text_fDYBeN",
-    "custom_liquid_pFdLFK",
     "multirow_injrfV",
     "custom_liquid_LHwrJ3"
   ]
