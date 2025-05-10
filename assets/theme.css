@@ -625,6 +625,22 @@ video {
   margin-bottom: 1rem;
 }
 
+.-mb-4 {
+  margin-bottom: -1rem;
+}
+
+.-mt-\[20px\] {
+  margin-top: -20px;
+}
+
+.-mt-\[40px\] {
+  margin-top: -40px;
+}
+
+.-mt-\[30px\] {
+  margin-top: -30px;
+}
+
 .block {
   display: block;
 }
@@ -836,6 +852,10 @@ video {
 
   .lg\:mt-0 {
     margin-top: 0px;
+  }
+
+  .lg\:-mt-20 {
+    margin-top: -5rem;
   }
 
   .lg\:max-h-\[40px\] {
