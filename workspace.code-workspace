@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "Potiguara Grow"
+    },
+  ],
+  "settings": {
+    "restoreTerminals.artificialDelayMilliseconds": 700,
+    "restoreTerminals.keepExistingTerminalsOpen": false,
+    "restoreTerminals.runOnStartup": true,
+    "restoreTerminals.terminals": [
+      {
+        "splitTerminals": [
+          {
+            "name": "Potiguara Grow WebApp Server",
+            "commands": [
+              "cd ~/Projects/e-commerce/potiguara-grow",
+              "npm run dev",
+            ]
+          },
+          {
+            "name": "Goat Tailwind Terminal",
+            "commands": [
+              "cd ~/Projects/e-commerce/potiguara-grow",
+              "git pull"
+            ]
+          },
+        ]
+      },
+    ]
+  }
+}
+
+//
