@@ -20,7 +20,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "kits-completos",
+        "collection": "kit-premium",
         "products_to_show": 4,
         "title": "Coleção em destaque",
         "heading_size": "h1",
