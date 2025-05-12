@@ -102,15 +102,6 @@
                   width="{{ card_product.media[1].width }}"
                   height="{{ card_product.media[1].height }}"
                 >
-              {%- else -%}
-                <img
-                  src="{{ placeholder_image | default: 'https://via.placeholder.com/533' }}"
-                  alt="Placeholder image"
-                  class="motion-reduce object-contain"
-                  loading="lazy"
-                  width="533"
-                  height="533"
-                >
               {%- endif -%}
             </div>
           </div>
